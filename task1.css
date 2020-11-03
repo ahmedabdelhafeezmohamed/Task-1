@@ -1,0 +1,58 @@
+body
+{
+	background: #214252;
+	color:#000;
+}
+header
+{
+	border: 1px solid;
+	padding: .3%;
+	margin: 2%;
+	background: #f05454;
+	text-align: center;
+}
+a
+{
+	height: 5%;
+	width: 20%;
+	display:inline-block;
+	text-decoration:none;
+	color: #214252;
+}
+a:hover
+{
+	color: #fff;
+	background: #af2d2d;
+}
+#mainImg img
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+section
+{
+	margin: 2%;
+}
+#contacts
+{ 
+  margin: auto;
+  width: 80%;
+  border: 3px solid #f05454;
+  padding: 10px;
+  text-align: center;
+}
+#contacts img
+{
+	width: 25%;
+	border: 1px solid #f05454;
+	margin: 10px;
+}
+h3
+{
+	background:#af2d2d;
+	font-weight: bolder;
+	margin-left:30%;
+	margin-right: 30%; 
+}
